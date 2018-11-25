@@ -1,8 +1,3 @@
-Sub HelloWorld()
-    MsgBox ("Hello World!")
-End Sub
-
-'Ejercicio Maestro'
 Sub StockData()
 Dim Ticker As Integer
 Dim TotalSV As Double
